@@ -1,2 +1,2 @@
 # MyFirstRepo
-Learning Curve 
+This is a learning tutorial for my Repo
